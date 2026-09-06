@@ -9,6 +9,7 @@
 ## About
 
 I build production-grade AI systems — from fine-tuned NLP classifiers to retrieval-augmented and agentic GenAI applications. My work centers on turning research-grade techniques into reliable, measurable, deployed solutions.
+
 Currently focused on Retrieval-Augmented Generation, LLM fine-tuning, and agentic architectures.
 
 ## Technical Toolkit
