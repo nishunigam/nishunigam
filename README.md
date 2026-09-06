@@ -1,9 +1,7 @@
 <div align="center">
-
+	
 # Nishchala
-
 ### Data Scientist — NLP & Generative AI
-
 *4+ years designing and deploying intelligent systems, with a focus on NLP, Deep Learning, and applied Generative AI*
 
 </div>
@@ -11,7 +9,6 @@
 ## About
 
 I build production-grade AI systems — from fine-tuned NLP classifiers to retrieval-augmented and agentic GenAI applications. My work centers on turning research-grade techniques into reliable, measurable, deployed solutions.
-
 Currently focused on Retrieval-Augmented Generation, LLM fine-tuning, and agentic architectures.
 
 ## Technical Toolkit
