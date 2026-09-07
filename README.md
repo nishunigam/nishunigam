@@ -14,14 +14,17 @@ Currently focused on Retrieval-Augmented Generation, LLM fine-tuning, and agenti
 **Languages**
 ![Python](https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-2b2b2b?style=flat-square&logo=postgresql&logoColor=white)
+
 **Machine Learning & Deep Learning**
 ![PyTorch](https://img.shields.io/badge/PyTorch-2b2b2b?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2b2b2b?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-2b2b2b?style=flat-square&logo=scikit-learn&logoColor=white)
+
 **NLP & Generative AI**
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-2b2b2b?style=flat-square&logo=huggingface&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-2b2b2b?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-2b2b2b?style=flat-square&logo=openai&logoColor=white)
+
 **Infrastructure & Tooling**
 ![Docker](https://img.shields.io/badge/Docker-2b2b2b?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-2b2b2b?style=flat-square&logo=amazon-aws&logoColor=white)
