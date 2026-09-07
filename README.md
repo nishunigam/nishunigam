@@ -11,7 +11,6 @@ I build production-grade AI systems — from fine-tuned NLP classifiers to retri
 Currently focused on Retrieval-Augmented Generation, LLM fine-tuning, and agentic architectures.
 
 ## Technical Toolkit
-
 **Languages**
 ![Python](https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-2b2b2b?style=flat-square&logo=postgresql&logoColor=white)
@@ -28,12 +27,7 @@ Currently focused on Retrieval-Augmented Generation, LLM fine-tuning, and agenti
 ![AWS](https://img.shields.io/badge/AWS-2b2b2b?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-2b2b2b?style=flat-square&logo=git&logoColor=white)
 
-<!-- Keep only what you genuinely use. Uniform dark badges (2b2b2b) give a clean, monochrome look — adjust the hex if you'd like a different accent color. -->
-
 ## Selected Work
-
-<!-- Copy this block for each project. Keep descriptions to one crisp line, and always quantify the result where possible. -->
-
 **[Project Name](https://github.com/nishunigam/repo-link)**
 One-line description of the problem and the approach taken.
 `Python` `PyTorch` `Hugging Face` — *Result: e.g. improved accuracy by 20%*
@@ -50,9 +44,6 @@ One-line description of the problem and the approach taken.
 [Live Demo →](#)
 
 ## Connect
-
-<!-- Keep only what you want public -->
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2b2b2b?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Email](https://img.shields.io/badge/Email-2b2b2b?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2b2b2b?style=flat-square&logo=googlechrome&logoColor=white)](#)
