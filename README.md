@@ -37,12 +37,12 @@ These projects demonstrate my expertise in applied machine learning, system desi
 
 | Project | Description | Technologies |
 |---|---|---|
-| [Admission Prediction](Admission_Predictions_using_Linear_Regression.ipynb) | Linear Regression model predicting graduate admission chance from GRE/TOEFL/CGPA and other applicant features, with full EDA and coefficient analysis. | Scikit-learn, Pandas, Seaborn |
-| [Personalized Recommendation Engine](https://github.com/yourusername/recommendation-engine) | Hybrid recommender combining collaborative filtering (SVD matrix factorization) and content-based filtering (TF-IDF similarity) with a tunable blend weight. | Scikit-learn, Pandas, NumPy |
-| [Customer Churn Prediction & Retention Automation](https://github.com/yourusername/churn-prediction) | XGBoost classifier predicting customer churn with class-imbalance handling, paired with a rules-based retention action engine. | XGBoost, Scikit-learn, Pandas |
-| [Search Ranking & Query Understanding](https://github.com/yourusername/search-ranking) | Learning-to-Rank system with TF-IDF query intent classification and a Gradient Boosted ranking model, evaluated with NDCG@K. | Scikit-learn, TF-IDF, Pandas |
-| [Dynamic Pricing & Demand Forecasting](https://github.com/yourusername/dynamic-pricing) | Gradient Boosted demand forecaster combined with grid-search price optimization to maximize profit under business constraints. | Scikit-learn, Pandas, NumPy |
-| [Real-Time Fraud/Anomaly Detection](https://github.com/yourusername/fraud-detection) | Ensemble fraud detector blending a supervised XGBoost classifier with an unsupervised Isolation Forest, plus a three-tier real-time decision policy. | XGBoost, Scikit-learn, Pandas |
+| [Admission Prediction](https://github.com/nishunigam/Data-Science-Project/blob/main/Admission_Predictions_using_Linear_Regression.ipynb)) | Linear Regression model predicting graduate admission chance from GRE/TOEFL/CGPA and other applicant features, with full EDA and coefficient analysis. | Scikit-learn, Pandas, Seaborn |
+| [Personalized Recommendation Engine](https://github.com/nishunigam/Data-Science-Project/blob/main/Personalized_Recommendation_Engine.ipynb)| Hybrid recommender combining collaborative filtering (SVD matrix factorization) and content-based filtering (TF-IDF similarity) with a tunable blend weight. | Scikit-learn, Pandas, NumPy |
+| [Customer Churn Prediction & Retention Automation](https://github.com/nishunigam/Data-Science-Project/blob/main/Customer_Churn_Prediction_%26_Retention_Automation_Pipeline.ipynb)) | XGBoost classifier predicting customer churn with class-imbalance handling, paired with a rules-based retention action engine. | XGBoost, Scikit-learn, Pandas |
+| [Search Ranking & Query Understanding](https://github.com/nishunigam/Data-Science-Project/blob/main/Search_Ranking_%26_Query_Understanding_System.ipynb) | Learning-to-Rank system with TF-IDF query intent classification and a Gradient Boosted ranking model, evaluated with NDCG@K. | Scikit-learn, TF-IDF, Pandas |
+| [Dynamic Pricing & Demand Forecasting](https://github.com/nishunigam/Data-Science-Project/blob/main/Dynamic_Pricing_%26_Demand_Forecasting_Engine.ipynb) | Gradient Boosted demand forecaster combined with grid-search price optimization to maximize profit under business constraints. | Scikit-learn, Pandas, NumPy |
+| [Real-Time Fraud/Anomaly Detection](https://github.com/nishunigam/Data-Science-Project/blob/main/Real_Time_Anomaly_Detection_System.ipynb) | Ensemble fraud detector blending a supervised XGBoost classifier with an unsupervised Isolation Forest, plus a three-tier real-time decision policy. | XGBoost, Scikit-learn, Pandas |
 
 
 **[Project Name](https://github.com/nishunigam/repo-link)**
