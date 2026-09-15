@@ -1,8 +1,8 @@
 <div align="center">
 	
 # Nishchala
-### Data Scientist — NLP & Generative AI
-*4+ years designing and deploying intelligent systems, with a focus on NLP, Deep Learning, and applied Generative AI*
+### AI Engineer
+*4+ years designing and deploying intelligent systems, with a focus on NLP, Deep Learning, and Generative AI*
 </div>
 
 ## About
@@ -30,7 +30,21 @@ Currently focused on Retrieval-Augmented Generation, LLM fine-tuning, and agenti
 ![AWS](https://img.shields.io/badge/AWS-2b2b2b?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-2b2b2b?style=flat-square&logo=git&logoColor=white)
 
-## Selected Work
+
+## 📊 Machine Learning Projects
+
+These projects demonstrate my expertise in applied machine learning, system design, and end-to-end pipeline development — from data generation and feature engineering through model evaluation and decision automation.
+
+| Project | Description | Technologies |
+|---|---|---|
+| [Admission Prediction](Admission_Predictions_using_Linear_Regression.ipynb) | Linear Regression model predicting graduate admission chance from GRE/TOEFL/CGPA and other applicant features, with full EDA and coefficient analysis. | Scikit-learn, Pandas, Seaborn |
+| [Personalized Recommendation Engine](https://github.com/yourusername/recommendation-engine) | Hybrid recommender combining collaborative filtering (SVD matrix factorization) and content-based filtering (TF-IDF similarity) with a tunable blend weight. | Scikit-learn, Pandas, NumPy |
+| [Customer Churn Prediction & Retention Automation](https://github.com/yourusername/churn-prediction) | XGBoost classifier predicting customer churn with class-imbalance handling, paired with a rules-based retention action engine. | XGBoost, Scikit-learn, Pandas |
+| [Search Ranking & Query Understanding](https://github.com/yourusername/search-ranking) | Learning-to-Rank system with TF-IDF query intent classification and a Gradient Boosted ranking model, evaluated with NDCG@K. | Scikit-learn, TF-IDF, Pandas |
+| [Dynamic Pricing & Demand Forecasting](https://github.com/yourusername/dynamic-pricing) | Gradient Boosted demand forecaster combined with grid-search price optimization to maximize profit under business constraints. | Scikit-learn, Pandas, NumPy |
+| [Real-Time Fraud/Anomaly Detection](https://github.com/yourusername/fraud-detection) | Ensemble fraud detector blending a supervised XGBoost classifier with an unsupervised Isolation Forest, plus a three-tier real-time decision policy. | XGBoost, Scikit-learn, Pandas |
+
+
 **[Project Name](https://github.com/nishunigam/repo-link)**
 One-line description of the problem and the approach taken.
 `Python` `PyTorch` `Hugging Face` — *Result: e.g. improved accuracy by 20%*
