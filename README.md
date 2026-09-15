@@ -31,7 +31,7 @@ Currently focused on Retrieval-Augmented Generation, LLM fine-tuning, and agenti
 ![Git](https://img.shields.io/badge/Git-2b2b2b?style=flat-square&logo=git&logoColor=white)
 
 
-## 📊 Machine Learning Projects
+## Machine Learning Projects
 
 These projects demonstrate my expertise in applied machine learning, system design, and end-to-end pipeline development — from data generation and feature engineering through model evaluation and decision automation.
 
