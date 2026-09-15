@@ -10,26 +10,45 @@ I build production-grade AI systems — from fine-tuned NLP classifiers to retri
 
 Currently focused on Retrieval-Augmented Generation, LLM fine-tuning, and agentic architectures.
 
-## Technical Toolkit
-**Languages**
-![Python](https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2b2b2b?style=flat-square&logo=postgresql&logoColor=white)
+## Technologies & Skills
 
-**Machine Learning & Deep Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-2b2b2b?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2b2b2b?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-2b2b2b?style=flat-square&logo=scikit-learn&logoColor=white)
+### AI Development
+- **Core:** Python, Machine Learning, Deep Learning
+- **Generative & Agentic AI:** LLMs, Generative AI, Agentic AI, AI Agents, Agentic Workflows
+- **LLM Techniques:** RAG, Prompt Engineering, Fine-Tuning
 
-**NLP & Generative AI**
-![HuggingFace](https://img.shields.io/badge/HuggingFace-2b2b2b?style=flat-square&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-2b2b2b?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-2b2b2b?style=flat-square&logo=openai&logoColor=white)
+### Generative AI Frameworks & Technologies
+- **Frameworks:** LangChain, LangGraph, LlamaIndex, Hugging Face Transformers
+- **APIs:** OpenAI APIs, Azure OpenAI Service
+- **Retrieval & Search:** Tokenization, Vector Embeddings, Semantic Search, Vector Search, Hybrid Search, Reranking
+- **Evaluation:** LLM Evaluation
 
-**Infrastructure & Tooling**
-![Docker](https://img.shields.io/badge/Docker-2b2b2b?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-2b2b2b?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2b2b2b?style=flat-square&logo=git&logoColor=white)
+### Cloud & AI Platforms
+- **Platform:** Microsoft Azure
+- **AI Services:** Azure OpenAI, Azure AI Services, Azure Machine Learning, Azure AI Search
 
+### Databases & Search Technologies
+- **Databases:** MongoDB, SQL Server, Vector Databases
+- **Search & Collaboration:** Elasticsearch, SharePoint
+
+### Data Engineering & Processing
+- **Pipelines:** ETL Pipelines, Data Extraction, Data Enrichment
+- **Content Processing:** Unstructured Data Processing, Document Processing, Web Content Processing
+
+### APIs & Integration
+- **APIs:** REST APIs, API Integration
+- **Messaging & Data:** Kafka, JSON Processing
+
+### Machine Learning & Deep Learning Frameworks
+- **Frameworks:** Scikit-learn, TensorFlow, Keras
+- **Techniques:** Model Training, Model Evaluation, Feature Engineering
+
+### Backend & Deployment
+- **Backend:** FastAPI
+- **Deployment:** Docker
+
+### Version Control & Collaboration
+- **Tools:** Git, GitHub, Azure DevOps
 
 ## Machine Learning Projects
 
