@@ -70,8 +70,6 @@ These projects demonstrate my expertise in applied machine learning, system desi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nishunigam&show_icons=true&theme=default&hide_border=true&title_color=2b2b2b&icon_color=2b2b2b&text_color=333333" alt="GitHub Stats" height="150"/>
-
 <sub><i>Building measured, deployable AI — one project at a time.</i></sub>
 
 </div>
