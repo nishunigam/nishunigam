@@ -65,7 +65,7 @@ These projects demonstrate my expertise in applied machine learning, system desi
 
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2b2b2b?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/nishchalanigam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2b2b2b?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishchalanigam)
 [![Email](https://img.shields.io/badge/Email-2b2b2b?style=flat-square&logo=gmail&logoColor=white)](mailto:nishchala.r@gmail.com)
 
 <div align="center">
